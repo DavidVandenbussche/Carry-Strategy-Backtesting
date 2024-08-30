@@ -79,8 +79,11 @@ The carry strategy is backtested by applying the computed carry values over the 
 
 Contributions are welcome! Please feel free to submit a pull request or open an issue if you have suggestions or encounter any issues.
 
+## References
 
-## Acknowledgments
+This project on the carry strategy was informed by several key papers and articles:
 
-This project was inspired by financial literature on the carry trade and its applications in futures markets. Special thanks to the developers of the libraries used in this project.
+1. [Carry](https://research.cbs.dk/en/publications/carry-2) - A research publication on the concept and implementation of the carry strategy.
+2. [Currency Carry Trades](https://www.jstor.org/stable/2962144) - An article that explores the mechanics and implications of currency carry trades.
+3. [The Cross-Section of Foreign Currency Risk Premia and Consumption Growth Risk](https://www.jstor.org/stable/222458) - A detailed analysis of foreign currency risk premia in the context of consumption growth risk.
 
