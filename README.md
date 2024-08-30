@@ -83,7 +83,16 @@ Contributions are welcome! Please feel free to submit a pull request or open an 
 
 This project on the carry strategy was informed by several key papers and articles:
 
-1. [Carry](https://research.cbs.dk/en/publications/carry-2) - A research publication on the concept and implementation of the carry strategy.
-2. [Currency Carry Trades](https://www.jstor.org/stable/2962144) - An article that explores the mechanics and implications of currency carry trades.
-3. [The Cross-Section of Foreign Currency Risk Premia and Consumption Growth Risk](https://www.jstor.org/stable/222458) - A detailed analysis of foreign currency risk premia in the context of consumption growth risk.
+## References
 
+This project on the carry strategy was informed by several key papers and articles:
+
+## References
+
+This project on the carry strategy was informed by several key papers and articles:
+
+1. [Carry](https://research.cbs.dk/en/publications/carry-2) by Ralph S.J. Koijen, Tobias J. Moskowitz, Lasse Heje Pedersen, and Evert B. Vrugt. This paper extends the concept of carry, which has traditionally been studied in currency markets, to a wide range of asset classes including global equities, global bonds, commodities, US Treasuries, credit, and options. It decomposes a security’s expected return into its "carry" (an ex-ante, model-free characteristic) and expected price appreciation. The study finds that carry predicts returns both cross-sectionally and over time across various asset classes. The paper also challenges existing financial theories like Uncovered Interest Parity and the Expectations Hypothesis, suggesting that carry strategies are often exposed to risks related to global recession, liquidity, and volatility, though these risks do not fully explain the carry premium.
+
+2. [Systematic Risk, Hedging Pressure, and Risk Premiums in Futures Markets](https://www.jstor.org/stable/2962144) by Hendrik Bessembinder, Arizona State University. This paper examines the uniformity of risk pricing in futures and asset markets. It finds that the "zero-beta" rate for futures is close to zero and that systematic risk premiums do not differ significantly across assets and futures. The study also presents evidence consistent with a model by Hirshleifer (1988), showing that returns in foreign currency and agricultural futures vary with the net holdings of hedgers, after controlling for systematic risk. These findings suggest a degree of market segmentation and support the idea that hedging pressure influences futures premiums.
+
+3. [Hedging Pressure Effects in Futures Markets](https://www.jstor.org/stable/222458) by Frans A. de Roon, Theo E. Nijman, and Chris Veld. This paper presents a model suggesting that futures risk premia depend on both own-market and cross-market hedging pressures. Empirical evidence from 20 futures markets, divided into financial, agricultural, mineral, and currency groups, indicates that both own and cross-hedging pressures significantly affect futures returns, even after controlling for systematic risk. The study demonstrates that hedging pressure also provides explanatory power for returns on the underlying assets, supporting the model’s predictions.
